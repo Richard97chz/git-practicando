@@ -16,6 +16,3 @@
 13. git pull <!--compara archivos que tenemos en github y los va a traer a nuetros archivos locales-->
 14. 
 
-
-
-15.git nuevo comando
