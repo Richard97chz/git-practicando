@@ -14,5 +14,7 @@
 12. git commit -am     <!--Con esto escribimos de manera simultánea git add y git commit. Cuando git ya le esta dando seguimiento. a(agregar),m(mensaje)-->
 
 13. git pull <!--compara archivos que tenemos en github y los va a traer a nuetros archivos locales-->
-14. 
-
+14. git fetch <!--detecta si se hizo lgun cambio local o en la nube y lo va a comparar y enviar; los va a dejar igualitos. Podriampos trabajar direct. en la nube y luego sincronizar al local-->
+15. git tag <!--para hacer versiones de proyecto. git tag version1.0 -m "version 1.0 de mi proyecto x"   <- vemos nombre y despues descripcion del proyecto-->
+16. git log --oneline <!--visualizar el tag-->
+17. git push --tags  <!--para subir las versiones-->
