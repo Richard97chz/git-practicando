@@ -7,4 +7,6 @@
 5. git checkout -- . <!--reconstruye archivos a como estaban en el ultimo commit-->
 6. git log             <!--ver listado de los commits-->
 7. git commit --amend  <!--para arreglar el ultimo commit, -> i -> modifico -> ESC -> :wq! -> ENTER -->
-8. 
+8. git checkout -b rama-heroes <!--crear una rama para evitar trabajar en el master-->
+9. git checkout master <!--me voy a rama en este caso master-->
+
