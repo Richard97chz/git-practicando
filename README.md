@@ -9,4 +9,5 @@
 7. git commit --amend  <!--para arreglar el ultimo commit, -> i -> modifico -> ESC -> :wq! -> ENTER -->
 8. git checkout -b rama-heroes <!--crear una rama para evitar trabajar en el master-->
 9. git checkout master <!--me voy a rama en este caso master-->
-
+10. git branch -d rama-heroes <!--para borrar una rama-->
+11. git push
