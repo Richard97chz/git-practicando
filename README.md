@@ -11,3 +11,5 @@
 9. git checkout master <!--me voy a rama en este caso master-->
 10. git branch -d rama-heroes <!--para borrar una rama-->
 11. git push
+12. git commit -am     <!--Con esto escribimos de manera simultánea git add y git commit. Cuando git ya le esta dando seguimiento. a(agregar),m(mensaje)-->
+
